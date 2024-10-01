@@ -1,0 +1,20 @@
+Changes
+INSTALL.SKIP
+lib/ExtUtils/Install.pm
+lib/ExtUtils/Installed.pm
+lib/ExtUtils/Packlist.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/can_write_dir.t
+t/Install.t
+t/Installapi2.t
+t/Installed.t
+t/InstallWithMM.t
+t/lib/MakeMaker/Test/Setup/BFD.pm
+t/lib/MakeMaker/Test/Utils.pm
+t/lib/TieOut.pm
+t/Packlist.t
+t/pod-coverage.t
+t/pod.t
